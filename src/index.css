@@ -1,3 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'NotoSansLight';
+  src: url('../public/fonts/NotoSansJP-Light.otf');
+}
+
+@font-face {
+  font-family: 'NotoSansRegular';
+  src: url('../public/fonts/NotoSansJP-Regular.otf');
+}
+
+@font-face {
+  font-family: 'NotoSansMedium';
+  src: url('../public/fonts/NotoSansJP-Medium.otf');
+}
+
+@font-face {
+  font-family: 'NotoSansBold';
+  src: url('../public/fonts/NotoSansJP-Bold.otf');
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
