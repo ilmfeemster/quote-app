@@ -1,3 +1,18 @@
+### quote-app
+##
+quote-app is a React application that uses fetch to pull from Luke Peavey's quote api. I use useEffect to mount the component intially and useState with an onClick handler to update each new quote.
+
+Technologies used:
+
+- React
+- JavaScript
+- Tailwind
+
+Will be working to turn into a full inspirational quote generator which will include:
+
+- Ability to change background
+- Option to save or share
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
